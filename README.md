@@ -1,2 +1,2 @@
 # Comparative_genomic_ExPEC
-Comparative genomics analysis scripts
+There are several comparative genomics analysis scripts created during the ExPEC strains research. 
